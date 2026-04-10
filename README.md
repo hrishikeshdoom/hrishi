@@ -23,10 +23,3 @@
 <a href="https://www.linux.org/"> <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" width="40" height="40"/> </a>
 </p>
 
-### GitHub Stats
-<div>
-    <a href="https://github.com/hrishikeshdoom">  
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=cobalt&locale=en" alt="hrishikeshdoom" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=highcontrast" alt="hrishikeshdoom" />
-    </a>
-</div>

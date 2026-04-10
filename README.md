@@ -20,7 +20,6 @@
 <a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://react.dev/"> <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en"> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com/"> <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="express" width="40" height="40"/> </a>
 <a href="https://www.electronjs.org/"> <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="electron" width="40" height="40"/> </a>
 <a href="https://git-scm.com/"> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/"> <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" width="40" height="40"/> </a>

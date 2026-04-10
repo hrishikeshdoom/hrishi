@@ -25,8 +25,8 @@
 
 ### GitHub Stats
 <div>
-    <a href="https://github.com/your-username">  
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=cobalt&locale=en" alt="your-username" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=highcontrast" alt="your-username" />
+    <a href="https://github.com/hrishikeshdoom">  
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=cobalt&locale=en" alt="hrishikeshdoom" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=highcontrast" alt="hrishikeshdoom" />
     </a>
 </div>

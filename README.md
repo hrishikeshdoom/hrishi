@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh S Gireesh!</h1>
 <h3 align="center">I build AI systems, full-stack apps, and high-performance digital products</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
-
 - 🚀 Interested in **AI, Cybersecurity, Performance Engineering, and UI/UX**
 
 - 🔭 I’m currently working on **DOOM News / DOOM Optimizer / DOOM Wallet**
